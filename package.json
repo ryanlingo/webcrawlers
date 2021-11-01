@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/ryanlingo/webcrawlers#readme",
   "dependencies": {
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
     "robots-parser": "^2.3.0"
   }
 }
